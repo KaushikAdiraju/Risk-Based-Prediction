@@ -1,1 +1,4 @@
 # Risk-Based-Prediction
+A company is in the financial lending business and provides loans to retail customers. It currently uses a process of first collecting certain customer information (attributes), analyzing it manually to decide whether the customer is eligible for a loan or not, and if eligible, telling the customer at what rate of interest rates it can avail the requested loan. Going forward the company wants to employ an automated process which is based upon a Machine Learning model. Not only is this model expected to make the decisioning process faster, but also keep it free from human error and biases.
+We have been assigned the task to build for this company a Decision Tree Machine Learning model, where the objective is to predict the loan interest rate category (out of 1, 2 or 3) for a customer.
+
